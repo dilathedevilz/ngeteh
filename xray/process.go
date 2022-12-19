@@ -17,7 +17,7 @@ import (
 	"x-ui/util/common"
 
 	"github.com/Workiva/go-datastructures/queue"
-	statsservice "github.com/xtls/xray-core/app/stats/command"
+	statsservice "github.com/dilathedevilz/xray-core/app/stats/command"
 	"google.golang.org/grpc"
 )
 
